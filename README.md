@@ -25,7 +25,7 @@
 创建订单
 -
 
-![image](http://www.apppay.xyz/index/githubimg/ManyUsers-Api/001.png)
+![image](http://www.apppay.xyz/index/githubimg/ManyUsers-Api/001.jpg)
 
 <br>
 <br>
